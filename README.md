@@ -1,2 +1,2 @@
 # Simplicity-Code-Editor
-An open source and lightweight open source ide using html css and js and wrapped in tauri which makes it faster than electron  
+An open source and lightweight open source code editor for all platforms. thats it i dont know what else to say 
